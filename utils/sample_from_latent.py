@@ -1,4 +1,3 @@
-import imp
 import numpy as np
 from utils.network import latent_to_states_model, gen_model
 from utils.custom_softmax import custom_softmax
